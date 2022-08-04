@@ -1,2 +1,2 @@
-console.log("Hello")
+cknsole.log("Hello")
 console.log("GitHub")
